@@ -6,15 +6,12 @@ This repository presents a comprehensive business intelligence report for **Adve
 
 ## Project Structure
 
-AdventureWorks Project/
-├── AdventureWorks Report.pdf
-├── AdventureWorks Report.pbix
-├── AdventureWorks Images/
-│   └── [Relevant visual assets and screenshots]
-├── AdventureWorks Raw Data/
-│   └── [All original Excel datasets]
-
-
+    - AdventureWorks Report.pdf
+    - AdventureWorks Report.pbix
+    - AdventureWorks Images/
+      - [Relevant visual assets and screenshots]
+    - AdventureWorks Raw Data/
+      - [All original Excel datasets]
 ---
 
 ## Overview
